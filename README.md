@@ -1,4 +1,5 @@
-#Assignment for Module 3-1
+# Assignment for Module 3-1
 
-![manual-trigger-terraform-destroy.png]
+![Manual Trigger](manual-trigger-terraform-destroy.png)
 
+![Success Message](success-terraform-destroy.png)
